@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msabogal
-- 👀 I’m interested in Cosmology
+- 👀 I’m interested in Cosmology and Software development
 - 🌱 I’m currently learning CLASS
-- 💞️ I’m looking to collaborate on research projects on cosmology
+- 💞️ I’m looking to collaborate on research projects on cosmology oSoftware developmentr 
 - 📫 Reach me in my personal mail miguelsabogalgarcia@gmail.com 
 
 <!---
